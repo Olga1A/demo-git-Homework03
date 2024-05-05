@@ -3,8 +3,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.printf("Hello world!");
-        System.out.println("This is my second repository");
+        System.out.println("Hello world! Good to be here!");
+        System.out.println("This is my third repository");
 
 
     }
